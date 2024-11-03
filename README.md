@@ -12,6 +12,10 @@ I created this project because I need to compare performance between [SAM]((http
 ```bash
 pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
 ```
+- Install Gradio and everything
+```bash
+pip install -U gradio
+```
 - Then follow the instruction from each repo to install [segment-anything](https://github.com/facebookresearch/segment-anything), [sam-hq](https://github.com/SysCV/sam-hq), [sam2](https://github.com/facebookresearch/sam2)
 - Download checkpoints in `checkpoints` folder and run gradio `python gradio.py` and enjoy
 ### Some examples
