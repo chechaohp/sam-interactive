@@ -12,7 +12,7 @@ I created this project because I need to compare performance between [SAM]((http
 ```bash
 pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
 ```
-- Install Gradio and everything
+- Install Gradio and everything (note that at the moment I created this repo, I used Gradio 5.4.0)
 ```bash
 pip install -U gradio
 ```
