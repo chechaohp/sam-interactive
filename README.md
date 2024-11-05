@@ -19,3 +19,6 @@ pip install -U gradio
 - Then follow the instruction from each repo to install [segment-anything](https://github.com/facebookresearch/segment-anything), [sam-hq](https://github.com/SysCV/sam-hq), [sam2](https://github.com/facebookresearch/sam2)
 - Download checkpoints in `checkpoints` folder and run gradio `python gradio.py` and enjoy
 ### Some examples
+
+![](image1.png "")
+![](image2.png "")
